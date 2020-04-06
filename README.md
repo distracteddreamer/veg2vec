@@ -1,1 +1,1 @@
-A simple project to using the approach [here](https://github.com/materialsintelligence/mat2vec/tree/master/mat2vec) to try to identify plant-based ingredients that might be able help with Covid-19.
+A simple project to using the approach in [https://github.com/materialsintelligence/mat2vec/tree/master/mat2vec](https://github.com/materialsintelligence/mat2vec/tree/master/mat2vec) to try to identify plant-based ingredients that might be able help with Covid-19.
